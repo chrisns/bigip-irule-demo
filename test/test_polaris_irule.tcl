@@ -1,4 +1,4 @@
-package require -exact testcl 1.0.14
+package require testcl
 namespace import ::testcl::*
 
 log::lvSuppressLE info 0
